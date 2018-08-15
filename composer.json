@@ -1,0 +1,19 @@
+{
+    "name": "wubuze/think-jwt",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wubuze",
+            "email": "wubuze@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wubuze\\Api\\": "src/"
+        }
+    }
+}
