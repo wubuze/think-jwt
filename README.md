@@ -10,7 +10,7 @@ think-jwt  thinkphp 使用的JWT工具
 - JWT(Json Web Token)的支持
 
 ### 文档
-更多信息请参考 [Wiki](https://github.com/wubuze/thinp-jwt/wiki) 文档
+更多信息请参考 [Wiki](https://github.com/wubuze/think-jwt/wiki) 文档
 
 ### 授权协议
 
@@ -18,6 +18,6 @@ think-jwt  thinkphp 使用的JWT工具
 
 ### 最后
 
-欢迎Star和Fork该项目😄😄😄😄
+欢迎Star和Fork该项目
 
-欢迎贡献代码😄😄😄
+欢迎贡献代码
