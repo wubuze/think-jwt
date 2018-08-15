@@ -1,5 +1,5 @@
 <?php
-namespace Wubuze\Api\JWT;
+namespace Wubuze\ThinkJwt\JWT;
 
 use Config;
 use Request;

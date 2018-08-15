@@ -1,5 +1,5 @@
 <?php
-namespace Wubuze\Api\Facades;
+namespace Wubuze\ThinkJwt\Facades;
 
 use think\Facade;
 
